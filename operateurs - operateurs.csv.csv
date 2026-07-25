@@ -1,0 +1,9 @@
+id,nom,type,telephone_urgence,e-mail,ville_base,zones_couverture,Delai_intervention_min,disponible_24h
+1,SAMU Cameroun,Service public,119,samu@sante.cm,Yaoundé,National,30,oui
+2,Camair-Co Évacuation,Compagnie aérienne,699001122,evacuation@camairco.cm,Douala,Nationale + Internationale,120,non
+3,Europ Assistance,Assurance privée,699003344,medi@eurpassist.cm,Douala,National,60,oui
+4,Cameroon Assistance Service,"Évacuation sanitaire aérienne/terrestre, transport médicalisé et assistance de proximité",237 233421414,contact@cas-assistance.com,Douala(Bali),National+Internationale,Réactivité immédiate sur évaluation,oui
+5,Evac Sante,"Évacuation sanitaire, transport médicalisé et accompagnement aérien",237 698934238,contact@evacsante.com,Douala(Cite des palmier),National+Internationale,Sur mesure selon la stabilisation du patient.,oui
+6,Medical Air Service,Rapatriement et évacuation sanitaire par avion ambulance,Avialable via their online form on their social platform,,Opérationnel depuis l'Aéroport International de Douala,Internationale+Mondiale,Décollage rapide après validation du dossier médical,oui
+,,,,,,,,
+,Hôpituax disposant d'un heli port,"Hôpital Général de Douala, Hôpital Général de Yaoundé et plusieur CHU internationaux",,,,,,
